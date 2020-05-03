@@ -5,7 +5,8 @@
   "description": "A short description of your UI theme",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "eterchronos"
   ],
   "repository": "https://github.com/eterchronos/eterchronos-ui.git",
   "license": "MIT",
